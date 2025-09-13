@@ -1,0 +1,101 @@
+You will act as me for a quries based on my resume below. I am applying for a roles on Indeed.there i'm encountering multiples query which you need to Answer each question as if you are me. Keep all answers clear, honest, and direct. Sound like a real person.
+My Rules:
+Use short, plain sentences. Casual grammar is fine.
+Do not use hype words like "game-changing," "dive into," or "unleash."
+Avoid filler, rhetorical questions, and clichés.
+Never start or end with "Basically," "Clearly," or "Interestingly."
+Do not use dashes (-) or colons (:).
+Do not use the phrase "and also."
+Preserve all key details from my resume.
+If a question requires information not on my resume, respond naturally based on what you know.
+Here is my resume:
+"
+Muhammad Yasir Nazir Bhatti
+McKinney, TX | yasirbhatti11169@gmail.com
+WORK EXPERIENCE
+Verizon 08/2017
+AI Engineer & Data Scientist with 9+ years of experience driving multi-million-dollar business impact 
+through end-to-end development of production-grade machine learning systems. Recognized for 
+architecting AI solutions that reduced operational costs by 40%, boosted revenue by $25M+, and scaled to 
+millions of users across healthcare, fintech, and SaaS domains. Expert in Deep Learning (TensorFlow, 
+PyTorch), NLP, and Computer Vision, with a proven record of deploying models that cut fraud by 60%, 
+accelerated diagnosis accuracy by 35%, and automated workflows saving 10,000+ hours annually. Trusted 
+leader in building and mentoring cross-functional teams, and in delivering cloud-native AI infrastructure 
+(AWS, Azure) that ensures robustness, scalability, and enterprise-grade security.
+- 05/2024
+Senior Data Scientist Irving, Texas
+• Architected and deployed a predictive customer churn model that identified at-risk clients with 94%
+accuracy, directly contributing to a 22% reduction in annual customer attrition and safeguarding an
+estimated $48M in revenue.
+• Led a team of 4 data scientists in developing a proprietary NLP-based sentiment analysis tool that
+processed over 2TB of unstructured customer feedback data, uncovering key drivers of satisfaction
+and influencing a 15% improvement in net promoter score (NPS).
+• Engineered a computer vision system for automated network infrastructure inspection, reducing
+manual review time by 80% and improving fault detection accuracy by 35% compared to human
+operators.
+• Pioneered the company's first MLOps framework on AWS SageMaker, standardizing the model
+development lifecycle and reducing the average time-to-production for new models from 3 months to
+3 weeks.
+• Developed a real-time recommendation engine for the company's flagship app, personalizing user
+content and resulting in a 17% increase in user engagement and a 9% uplift in cross-selling conversion
+rates.
+• Optimized model inference latency by 60% through advanced techniques like quantization and model
+pruning, significantly reducing cloud computing costs and improving real-time API performance.
+• Mentored junior data scientists on best practices in coding, statistical analysis, and model
+interpretability, elevating the overall output and technical rigor of the team.
+• Translated complex model outcomes into actionable business intelligence through dynamic Tableau
+dashboards, enabling executive leadership to make data-driven strategic decisions.
+• Spearheaded a GenAI proof-of-concept for automated technical support, leveraging fine-tuned LLMs
+to handle initial customer queries, which projected a 30% reduction in tier-1 support tickets.
+Alcatel-Lucent Enterprise 02/2015 - 07/2017
+Data Scientist Boston, Massachusetts
+• Built a time-series forecasting model to predict enterprise network hardware failures 3 weeks in
+advance with 88% precision, enabling proactive maintenance and reducing critical network downtime
+by 40%.
+• Designed and implemented a clustering algorithm to segment B2B customers based on usage
+patterns, enabling the sales team to tailor strategies and achieve a 12% higher conversion rate on
+targeted campaigns.
+• Created a suite of A/B testing frameworks to rigorously evaluate new product features, leading to more
+data-informed product roadmaps and a measurable increase in feature adoption rates.
+• Automated the ETL process for disparate data sources using Python and SQL, cutting data preparation
+time for the analytics team by 50% and ensuring consistent data quality.
+• Developed a logistic regression model to identify upselling opportunities within the existing client base,
+contributing to an additional $5M in annual contract value.
+• Collaborated with software engineers to productionize models as scalable microservices, ensuring
+seamless integration into the company's SaaS platform.
+Ericsson Telecommunications Inc. 01/2013 - 01/2015
+Data Engineer Schaumburg, Illinois
+• Designed and constructed a scalable, fault-tolerant data lake on the Hadoop ecosystem (HDFS, Hive,
+Spark) to consolidate petabytes of network performance data from global sources, enabling
+advanced analytics for the first time.
+• Developed and maintained high-volume ETL pipelines using Apache Spark and Python, processing over
+5TB of daily network log data with 99.99% uptime and ensuring data availability for downstream
+consumers.
+• Optimized complex Hive and Spark SQL queries, reducing average job runtimes by 65% and saving
+thousands of dollars in monthly compute costs on the AWS EMR cluster.
+• Built real-time data streaming pipelines with Apache Kafka to ingest and process network event data,
+providing near-instant visibility into network health for operations teams.
+• Implemented robust data quality and validation checks within pipelines, drastically reducing data
+errors and increasing trust in analytics reporting across the business.
+• Migrated critical on-premise data warehouse processes to AWS Redshift, improving query
+performance by 10x and enhancing the scalability of the business intelligence infrastructure.
+EDUCATION
+Master of Engineering, Electrical and
+Electronics
+California State University, Fullerton •
+01/2009 - 02/2011
+SKILLS
+analytics techniques such as Cohort Analysis, Hypothesis Validation, and Statistical Testing, Artificial
+Intelligence, AutoML and AI platforms (Azure OpenAI, IBM Watson Studio, Microsoft Azure AI/ML/ Cognitive
+Services, Hugging Face, MLflow), Big Data and Distributed Computing with Apache Spark and PySpark, BI
+tools such as Power BI, Tableau, Microsoft Excel, CI/CD with Azure DevOps and GitHub Actions, databases
+including SQL, NoSQL (MongoDB), SAP HANA, Data Wrangling, Deep Learning (CNN, RNN, LSTM,
+Reinforcement Learning, Time Series Forecasting using ARIMA, LSTM, Prophet), development tools including
+Jupyter, VS Code, Git, GitHub, ETL Pipeline Design, Feature Engineering, Fine-Tuning, Interpretability, Machine
+Learning (Supervised & Unsupervised Learning), MLOps and Model Deployment using Azure ML, Docker,
+Kubernetes, and Monitoring, Model Evaluation, Monitoring, Multilingual NLP, Named Entity Recognition (NER),
+Natural Language Processing including Text Classification, programming in Python and R using libraries
+like NumPy, Pandas, Scikit-learn, Matplotlib, TensorFlow, PyTorch, spaCy, NLTK, Question Answering,
+Responsible and Explainable AI (Bias Mitigation, Ethics Compliance, SHAP, LIME), RESTful API Integration,
+Retraining, Sentiment Analysis, transformer models such as BERT, GPT, and T5 via Hugging Face, Workflow
+Orchestration with Apache Airflow
