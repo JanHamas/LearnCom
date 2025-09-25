@@ -7,7 +7,7 @@ async def main():
     async with Stealth().use_async(async_playwright()) as p:
         # Launch browser in headed mode with appropriate settings
         browser = await p.chromium.launch(headless=False)
-        
+        # hamas
         # Create a context with mobile emulation
         
         iphone_12 = p.devices['iPhone 12']
