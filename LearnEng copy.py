@@ -1,9 +1,9 @@
 from playwright.async_api import async_playwright
 from playwright_stealth import Stealth
 import asyncio
-import json
 
-async def main():
+
+async def main():   
     async with Stealth().use_async(async_playwright()) as p:
         # Launch browser in headed mode with appropriate settings
         browser = await p.chromium.launch(headless=False)
@@ -24,7 +24,7 @@ async def main():
                 
                 # Wait for and click the button with more specific selector
                 print("Waiting for talk button...")
-                await asyncio.sleep(3)
+              
                 await page.locator("div.flex.gap-6 button").last.click()
                 print("Successfully clicked on 'Talk to an agent' button")
 
@@ -47,3 +47,4 @@ async def main():
                 await asyncio.sleep(5)
 
 asyncio.run(main())
+
